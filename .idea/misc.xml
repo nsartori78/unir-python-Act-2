@@ -4,6 +4,7 @@
     <option name="enabledOnReformat" value="true" />
     <option name="enabledOnSave" value="true" />
     <option name="pathToExecutable" value="/opt/anaconda3/bin/black" />
+    <option name="sdkName" value="Python 3.14 (unir-python-Act-2)" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.14 (unir-python-Act-2)" project-jdk-type="Python SDK" />
 </project>
